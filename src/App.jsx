@@ -1,7 +1,6 @@
 import "./App.css";
 import UseRef from "./Components/UseRef";
 import LifeCycle from "./Components/LifeCycle";
-import UseContex from "./Components/UseContex";
 import { useState } from "react";
 
 function App() {
